@@ -1,8 +1,14 @@
+                             ************************
+                             * Project Introduction *
+                             ************************
+
 Throughout the last week, while also holding down a full time job, I derived the solutions
 to all the tasks posed in a DataBricks 'coding challenge' - except for a workable solution for the Logistical
 regression question. I will explain my assumptions and reasoning for my current solutions
-for each of the tasks I attempted, in this file. I want to stress that I a normal workflow, I would
-have assign a lot more time to testing the solutions derived.
+for each of the tasks I attempted, in this file. I want to stress that in a normal workflow, I would
+have assigned a lot more time to testing the solutions derived. Also, in a real life scenario,
+I expect that I would need to segregate the solutions so that I can generate independently runnable
+spark binary files.
 
                                  *****************
                                  ** Assumptions **
